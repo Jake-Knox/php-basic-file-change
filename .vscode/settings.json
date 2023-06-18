@@ -1,8 +1,0 @@
-{
-    "phpserver.phpPath": "php",
-    "phpserver.host": "127.0.0.1",
-    "phpserver.port": 3000,
-    "phpserver.root": "",
-    "phpserver.router": "index.php",
-    "phpserver.openInBrowser": true
-}
