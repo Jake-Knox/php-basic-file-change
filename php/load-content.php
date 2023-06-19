@@ -1,6 +1,6 @@
 <?php
 // Read the content from the file
-$content = file_get_contents("data.txt");
+$content = file_get_contents("../data.txt");
 
 // Output the content as a textarea within a form
 echo "<form>";
