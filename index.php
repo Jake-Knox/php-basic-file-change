@@ -1,3 +1,4 @@
+<!-- php -S 127.0.0.1:8000 to start local server -->
 <?php
 $requestPath = $_SERVER['REQUEST_URI'];
 

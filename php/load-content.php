@@ -1,3 +1,5 @@
+<!-- loads text file content from data.txt, sends to front end -->
+
 <?php
 // Read the content from the file
 $content = file_get_contents("../data.txt");

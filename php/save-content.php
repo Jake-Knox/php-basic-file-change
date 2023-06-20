@@ -1,3 +1,5 @@
+<!-- saves web page content to data.txt -->
+
 <?php
 if (isset($_POST['content'])) {
     $content = $_POST['content'];
